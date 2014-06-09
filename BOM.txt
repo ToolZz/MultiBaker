@@ -1,0 +1,104 @@
+Ultimaker single j.head head Integrated Printhead
+http://www.thingiverse.com/thing:142867
+
+TwisterBlocks XY-carriers
+https://www.youmagine.com/designs/twisterblocks
+remake -> /3D Printed parts/x-y carrier twister 3 versie 12mm.skp
+
+Axes & metal parts
+http://www.metallbau-pietrzak.de/shop/
+1x 300mm, PTRS 12x3 rechts präzision Zuschnitt (Art-Nr:PTRS12031-Z)
+1x Trapezgewindemutter TR12x3 6kant Stahl rechts (Art-Nr:612031)
+2x 336mm, Präzisionwelle Ø12mm cf53 h6 Zuschnitt (Art-Nr:WCF0012-Z)
+2x 300mm, Präzisionwelle Ø8mm cf53 h6 Zuschnitt (Art-Nr:WCF008-Z)
+2x 292mm, Präzisionwelle Ø8mm cf53 h6 Zuschnitt (Art-Nr:WCF008-Z)
+
+2x 230mm, Präzisionwelle Ø6mm cf53 h6 Zuschnitt (Art-Nr:WCF006-Z)
+	Both need to be cut to the right size.
+
+1x Airtripper's Direct Drive Bowden extruder kit for Reprap Rostock DIY 3d Printers
+http://airtripper.com/1071/airtrippers-bowden-extruder-v3-updated-design/
+http://www.ebay.nl/itm/Airtrippers-Direct-Drive-Bowden-extruder-kit-for-Reprap-Rostock-DIY-3d-Printers-/321417611957
+
+1x MK7 Drive Gear. Reprap extruder pulley for 1.75/3mm filament.Bore 5mm
+http://reprap.org/wiki/Drive-gear
+http://www.ebay.nl/itm/MK7-Drive-Gear-Reprap-extruder-pulley-for-1-75-3mm-filament-Bore-5mm-Steel-SS30-/271434055937
+
+1x J-Head MK-V 0.4mm with Bowden+fittings for 1.75mm filament
+http://reprap.org/wiki/J_Head_Nozzle#Mk_V
+http://www.ebay.nl/itm/J-Head-MK-V-0-4mm-with-Bowden-fittings-for-1-75mm-filament-/271489906650
+
+2x LM 6LUU 6*12*35mm Round Long Type CNC Linear Motion Metal Shield Bearing
+http://www.ebay.nl/itm/2-LM-6LUU-6-12-35mm-Round-Long-Type-CNC-Linear-Motion-Metal-Shield-Bearing-/261297085756
+
+2x LM 12LUU 12*21*57mm Round Long Type CNC Linear Motion Metal Shield Bearing
+http://www.ebay.nl/itm/2-Round-Long-Type-CNC-Linear-Motion-Metal-Shield-Bearing-LM-12LUU-12-21-57mm-/261297084870
+
+1x 12V DC 20A Regulated Switching Power Supply For The LED Strip
+http://www.ebay.nl/itm/12V-DC-2A-5A-10A-15A-20A-30A-Regulated-Switching-Power-Supply-For-The-LED-Strip-/121177916964
+
+6x V4 Microswitch 5 Amp 250vac solder tags (SW048)
+http://www.ebay.co.uk/itm/V4-Microswitch-5-Amp-250vac-solder-tags-and-with-a-selection-of-actuators-/161090964683?var=460202549982
+
+1x MEGA 2560 R3 ( ATmega 2560 / ATmega 16U2 ) Board For ARDUINO's IDE
+http://arduino.cc/en/Main/ArduinoBoardMega2560
+http://www.ebay.nl/itm/MEGA-2560-R3-ATmega-2560-ATmega-16U2-usb-Board-5v-For-ARDUINOs-IDE-/190898617195
+
+4x Stepper Motor
+17HS3001-20B
+http://www.robotdigg.com/product/7/NEMA17-Stepper-Motor-40mm-Long,-1.2A
+			
+Flexible Coupling 5mm Shaft to 8mm Screw
+http://www.robotdigg.com/product/112/Flexible-Coupling-5mm-Shaft-to-8mm-Screw
+			
+Timing Pulley&Belt			
+2x GT2 Pulley 20 Teeth 5mm Bore
+GT2-20T-5B
+http://www.robotdigg.com/product/9/GT2-Pulley-20-Teeth-5mm-Bore
+
+10x GT2 Pulley 20 Teeth 8mm Bore
+GT2-20T-8B
+http://www.robotdigg.com/product/23/GT2-Pulley-20-Teeth-8mm-Bore
+
+5m Open Ended 6mm Width GT2 Belt
+GT2-B6
+http://www.robotdigg.com/product/10/Open-Ended-6mm-Width-GT2-Belt
+
+2x Closed-loop GT2 Belt, 101 Teeth 202mm Long
+GT2-202-B6
+http://www.robotdigg.com/product/38/Closed-loop-GT2-Belt,-101-Teeth-202mm-Long
+
+4x Timing Belt Tensioner Spring
+RD-7TS
+http://www.robotdigg.com/product/41/Timing-Belt-Tensioner-Spring
+			
+1x 12VDC 4CM Cooling Fan
+RD-CF
+http://www.robotdigg.com/product/57/12VDC-4CM-Cooling-Fan
+
+5x Compression Spring for Heatbed and Extruder
+http://www.robotdigg.com/product/71/Compression-Spring-for-Heatbed-and-Extruder
+
+4x 8mm ID Self-lubricating Bearing
+http://www.robotdigg.com/product/68/8mm-ID-Self-lubricating-Bearing
+			
+1x Ramps 1.4 Board
+http://www.robotdigg.com/product/121/Ramps-1.4-Board
+	
+1x M3*4 Grub Screw PACK SET for Timing Pulleys
+http://www.robotdigg.com/product/17/M3*4-Grub-Screw-PACK-SET-for-Timing-Pulleys
+
+1x 200x200x3mm aluminium plate
+
+1x 10PCS Miniature Rubber Sealed Metal Shielded Metric Radial Ball Bearing Model XD
+model 688 ZZ, 8x16x5mm
+http://www.ebay.ca/itm/10PCS-Miniature-Rubber-Sealed-Metal-Shielded-Metric-Radial-Ball-Bearing-Model-XD-/230972346458?var=530143722239
+
+Screws
+https://www.rvspaleis.nl/
+1x M3 square nut, box 200 pcs
+1x M3x16 screws ISO 7380, box 100 pcs
+1x M3x35 screws ISO 7380, box 100 pcs
+1x M3x25 screws ISO 7380, box 100 pcs
+1x M3 ring ISO 125, box 1000 pcs
+
